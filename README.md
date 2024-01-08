@@ -1,5 +1,5 @@
 # Clash-vpn
-![](/.images/vpn.png)
+![](https://github.com/bizzancoin/Clash-vpn/blob/main/.image/vpn.png)
 
 收费机场机场收集/vpn-定时更新,这些我用过，觉得不错。
 
